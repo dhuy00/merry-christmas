@@ -16,6 +16,7 @@ import raindeer2 from "../assets/raindeer2.svg";
 import snowman from "../assets/snowman.svg";
 import house from "../assets/house.svg";
 import tree from "../assets/tree.svg";
+import BackgroundMusic from "../components/BackgroundMusic";
 
 export default function Home() {
   const [isShowCard, setIsShowCard] = useState(false);
@@ -26,6 +27,7 @@ export default function Home() {
       <Snow />
       <SnowFlake />
       <SnowFlake2 />
+      <BackgroundMusic />
 
       {/* ================= MODAL CARD ================= */}
       {isShowCard && (
