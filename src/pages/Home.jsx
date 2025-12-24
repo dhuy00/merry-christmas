@@ -256,7 +256,7 @@ export default function Home() {
             mt-2
           "
         >
-          Merry Christmas, PThanh! Wishing you a peaceful holiday season — and
+          Merry Christmas, Wishing you a peaceful holiday season — and
           hopefully fewer deadlines and less OT deciding to show up uninvited
           =)).
         </p>
